@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**martinrebo/martinrebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 www.martinreboredo.com
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on www.datepan.com and www.edreamsodigeo.com
+- 🌱 I’m currently learning Docker / Clean Code by Uncle Bob / Microservices Arquitecture
+- 💬 Ask me about Javascript / React / Node / Express / 
+- 📫 How to reach me: hello@martinreboredo.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### ⚡ Recent Repositories:
+- [Excelsense](https://github.com/martinrebo/excelsense) - technical test for job interview (React / Express / CSS Grid)
+- [Github Searchbar Clon](https://github.com/martinrebo/github-clon) - technical test for job interview (React / Github Graphql API ) 
+
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=martinrebo&show_icons=true)
