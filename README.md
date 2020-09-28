@@ -10,6 +10,7 @@
  ### ⚡ Recent Repositories:
 - [Excelsense](https://github.com/martinrebo/excelsense) - technical test for job interview (React / Express / CSS Grid)
 - [Github Searchbar Clon](https://github.com/martinrebo/github-clon) - technical test for job interview (React / Github Graphql API ) 
+- [Tappx ](https://github.com/martinrebo/tappx-devapp) - technical test for Tappx.com (React / Rest API / Hooks / Css Grid)
 
 
 
