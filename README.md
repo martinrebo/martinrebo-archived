@@ -3,7 +3,7 @@
 ### 🌟 www.martinreboredo.com
 
 - 🔭 I’m currently working on www.datepan.com and www.edreamsodigeo.com
-- 🌱 I’m currently learning Docker / Clean Code by Uncle Bob / Microservices Arquitecture
+- 🌱 I’m currently learning Docker / Clean Code / TypeScript / Testing
 - 💬 Ask me about Javascript / React / Node / Express / 
 - 📫 How to reach me: hello@martinreboredo.com
 
