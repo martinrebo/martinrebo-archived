@@ -3,14 +3,16 @@
 ### 🌟 www.martinreboredo.com
 
 - 🔭 I’m currently working on www.datepan.com and www.edreamsodigeo.com
-- 🌱 I’m currently learning Docker / Clean Code / TypeScript / Testing
+- 🌱 I’m currently deep learning Docker / React Native / TypeScript / Testing
 - 💬 Ask me about Javascript / React / Node / Express / 
 - 📫 How to reach me: hello@martinreboredo.com
 
- ### ⚡ Recent Repositories:
-- [Excelsense](https://github.com/martinrebo/excelsense) - technical test for job interview (React / Express / CSS Grid)
-- [Github Searchbar Clon](https://github.com/martinrebo/github-clon) - technical test for job interview (React / Github Graphql API ) 
-- [Tappx ](https://github.com/martinrebo/tappx-devapp) - technical test for Tappx.com (React / Rest API / Hooks / Css Grid)
+ ### ⚡ Recent Job Applications:
+ -[Qida](https://github.com/martinrebo/quida) React / MobX / Docker
+- [Jugendstil.io](https://github.com/martinrebo/jugendstil) React / TypeScript
+- [Excelsense](https://github.com/martinrebo/excelsense) -  React / Express / CSS Grid 
+- [Github Searchbar Clon](https://github.com/martinrebo/github-clon) -  React / Github Graphql API 
+- [Tappx ](https://github.com/martinrebo/tappx-devapp) -  React / Rest API / Hooks / Css Grid
 
 
 
