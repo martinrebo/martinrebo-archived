@@ -8,7 +8,7 @@
 - 📫 How to reach me: hello@martinreboredo.com
 
  ### ⚡ Recent Job Applications:
- -[Qida](https://github.com/martinrebo/quida) React / MobX / Docker
+- [Qida](https://github.com/martinrebo/quida) React / MobX / Docker
 - [Jugendstil.io](https://github.com/martinrebo/jugendstil) React / TypeScript
 - [Excelsense](https://github.com/martinrebo/excelsense) -  React / Express / CSS Grid 
 - [Github Searchbar Clon](https://github.com/martinrebo/github-clon) -  React / Github Graphql API 
