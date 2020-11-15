@@ -3,7 +3,7 @@
 ### 🌟 www.martinreboredo.com
 
 - 🔭 I’m currently working on www.datepan.com and www.edreamsodigeo.com
-- 🌱 I’m currently deep learning Docker / React Native / TypeScript / Testing
+- 🌱 I’m currently deep learning Docker / React Native / TypeScript / Testing / Google Cloud
 - 💬 Ask me about Javascript / React / Node / Express / 
 - 📫 How to reach me: hello@martinreboredo.com
 
