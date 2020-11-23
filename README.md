@@ -7,7 +7,7 @@
 - 💬 Ask me about Javascript / React / Node / Express / 
 - 📫 How to reach me: hello@martinreboredo.com
 
-### ⚡ Current Project:
+### ⚡ Current Public Project:
 
 - [MERN BOILERPLATE](https://github.com/martinrebo/boilerplate) 
   - Public Code Template for a MERN app to speed up the setting up of the development enviroment for technical challenges
