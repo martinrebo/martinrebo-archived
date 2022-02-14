@@ -2,7 +2,7 @@
 
 ### 🌟 www.martinreboredo.com
 
-- 🔭 I’m currently working on www.datepan.com and www.netenders.com
+- 🔭 I’m currently working on www.datepan.com and www.privalia.com (www.veepee.com)
 - 🌱 I’m currently learning Docker / React Native / TypeScript / Testing / Google Cloud & GraphQL
 - 💬 Ask me about Javascript / React / Node / Express / 
 - 📫 How to reach me: hello@martinreboredo.com
