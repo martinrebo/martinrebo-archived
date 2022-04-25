@@ -11,7 +11,7 @@
 
 - [WUDTIME](https://wudtime.com) 
   - Social App to create events and meet people
-  - Universal app for Web, Adroid, IOS
+  - Universal app for Web, Android, IOS
   - Using React Native, Expo, MongoDB, Firebase, Github, Google App Engine, Serverless. 
  
  ### ⚡ Recent Tech Challenges:
