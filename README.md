@@ -2,21 +2,17 @@
 
 ### 🌟 www.martinreboredo.com
 
-- 🔭 I’m currently working on www.datepan.com and www.privalia.com (www.veepee.com)
-- 🌱 I’m currently learning Docker / React Native / TypeScript / Testing / Google Cloud & GraphQL
+- 🔭 I’m currently working on www.warteamx.com and www.privalia.com (www.veepee.com)
+- 🌱 I’m currently using Docker / React Native / TypeScript / Testing / Google Cloud
 - 💬 Ask me about Javascript / React / Node / Express / 
 - 📫 How to reach me: hello@martinreboredo.com
 
-### ⚡ Current Public Project:
+### ⚡ Current Project:
 
-- [MERN BOILERPLATE](https://github.com/martinrebo/boilerplate) 
-  - Public Code Template for a MERN app to speed up the setting up of the development enviroment for technical challenges
-  - MONGODB / EXPRESS / REACT / NODE / TYPESCRIPT
-  - REDUX / MATERIAL UI / DOCKER
-  - APOLLO GRAPHQL 🚧
-  - DEPLOY: Google Cloud App Engine
-  - CD/CI:  Google Cloud Build
-  - Testing: React Testing Library
+- [WUDTIME](https://wudtime.com) 
+  - Social App to create events and meet people
+  - Universal app for Web, Adroid, IOS
+  - Using React Native, Expo, MongoDB, Firebase, Github, Google App Engine, Serverless. 
  
  ### ⚡ Recent Tech Challenges:
 
